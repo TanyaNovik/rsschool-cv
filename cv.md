@@ -14,4 +14,4 @@
 	```
 6. I have been a Test Automation Engineer for almost 5 years.
 7. Specialist of Information systems and technologies in economics, BSUIR, Minsk
-8. 
+8. English level is B1.
